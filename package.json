@@ -1,0 +1,16 @@
+{
+  "name": "workon-cli",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Lyder Bredland <fl@nyggen.com>",
+  "license": "MIT",
+  "bin": {
+    "workon": "./src/index.js"
+  },
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
+}
